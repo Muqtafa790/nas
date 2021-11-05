@@ -10,3 +10,7 @@ https://dashboard.ngrok.com
 default username : admin
 
 default password : Area69Lab
+
+# Credits
+@Kartikrajofficial
+https://t.me/Kartikrajofficial
